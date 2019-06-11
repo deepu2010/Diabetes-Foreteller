@@ -7,5 +7,5 @@ I have developed an android application named ‘Diabetes Foreteller’ which he
 For my application, I have made use of PIMA indians diabetes dataset. PIMA is a top-class medical institute released a diabetes dataset with the key factors that influence diabetes. The dataset provides accurate information of all the patients and provides reliability for the students/professionals to use this data in real time projects. 
 
 **Context Diagram of Diabetes Foreteller**
+Format: ![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Context%20diagram.JPG)
 
-https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Context%20diagram.JPG
