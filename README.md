@@ -42,6 +42,7 @@ Based on my experience with Deep Learning, I have followed a methodology I learn
 * I have built a deep neural network with 6 layers.
 * Hence, my model has 5 hidden layers and one output layer
 * My model is mentioned as,
+
    **[LINEAR -> RELU]  ×  (L-1) -> LINEAR -> SIGMOID**
    
 
