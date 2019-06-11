@@ -6,6 +6,17 @@ I have developed an android application named ‘Diabetes Foreteller’ which he
 **About the Dataset:**
 For my application, I have made use of PIMA indians diabetes dataset. PIMA is a top-class medical institute released a diabetes dataset with the key factors that influence diabetes. The dataset provides accurate information of all the patients and provides reliability for the students/professionals to use this data in real time projects. 
 
+The dataset includes data from 768 women with 8 characteristics, in particular:
+1. Number of times pregnant
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+3. Diastolic blood pressure (mm Hg)
+4. Triceps skin fold thickness (mm)
+5. 2-Hour serum insulin (mu U/ml)
+6. Body mass index (weight in kg/(height in m)^2)
+7. Diabetes pedigree function
+8. Age (years)
+
+
 **Context Diagram of Diabetes Foreteller**
 ![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Context%20diagram.JPG)
 
