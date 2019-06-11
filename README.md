@@ -5,7 +5,6 @@ I have developed an android application named ‘Diabetes Foreteller’ which he
 
 **About the Dataset:**
 
-
 For my application, I have made use of PIMA indians diabetes dataset. PIMA is a top-class medical institute released a diabetes dataset with the key factors that influence diabetes. The dataset provides accurate information of all the patients and provides reliability for the students/professionals to use this data in real time projects. 
 
 The dataset includes data from 768 women with 8 characteristics, in particular:
