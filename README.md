@@ -8,3 +8,4 @@ For my application, I have made use of PIMA indians diabetes dataset. PIMA is a 
 
 **Context Diagram of Diabetes Foreteller**
 
+https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Context%20diagram.JPG
