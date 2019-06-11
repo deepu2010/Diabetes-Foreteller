@@ -24,6 +24,18 @@ The dataset includes data from 768 women with 8 characteristics, in particular:
 ![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Use%20case%20diagram.JPG)
 
 **Machine Learning Model Details:**
+Rather than relying on popular machine learning frameworks such as Keras, TensorFlow, I wanted to challenge myself by building a neural network completely on my own. 
+Based on my experience with Deep Learning, I have followed a methodology I learnt from ‘Deep Learning Specialization’ by Andrew Ng.
+
+**METHODOLOGY FOLLOWED:**
+1. Initialize parameters / Define hyperparameters
+2. Loop for number of iterations:
+    a. Forward propagation
+    b. Compute cost function
+    c. Backward propagation
+    d. Update parameters (using parameters, and grads from backprop) 
+4. Use trained parameters to predict labels
+
 ###### Architecture of neural network for diabetes foreteller
 * I have built a deep neural network with 6 layers.
 * Hence, my model has 5 hidden layers and one output layer
