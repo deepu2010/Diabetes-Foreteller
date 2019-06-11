@@ -30,10 +30,10 @@ Based on my experience with Deep Learning, I have followed a methodology I learn
 **METHODOLOGY FOLLOWED:**
 1. Initialize parameters / Define hyperparameters
 2. Loop for number of iterations:
-    a. Forward propagation
-    b. Compute cost function
-    c. Backward propagation
-    d. Update parameters (using parameters, and grads from backprop) 
+    * Forward propagation
+    * Compute cost function
+    * Backward propagation
+    * Update parameters (using parameters, and grads from backprop) 
 4. Use trained parameters to predict labels
 
 ###### Architecture of neural network for diabetes foreteller
