@@ -62,3 +62,22 @@ Based on my experience with Deep Learning, I have followed a methodology I learn
 * **F1 Score (training set):** 1.0
 * **F1 Score (test set):** 0.79
 
+## Steps for operating Diabetes Foreteller Android Application:
+
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Diabetes%20foreteller%20splash.jpeg)
+
+**Step 1: Enter basic details**
+
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/First%20page.jpeg)
+
+**Step 2: Enter bio metric details**
+
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/details1.jpeg)
+
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/details2.jpeg)
+
+After entering all the details select **'Calculate Risk'**
+
+**View the result**
+
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/output.jpeg)
