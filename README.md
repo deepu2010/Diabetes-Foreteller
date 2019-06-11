@@ -44,3 +44,12 @@ Based on my experience with Deep Learning, I have followed a methodology I learn
    
 
 ![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Architecture%20of%20Neural%20Network.JPG)
+
+**Model Training details:**
+1. Learning Rate = 0.0075
+2. Num of iterations = 8000
+3. Regularization = ‘Dropout Regularization’
+4. Early stopping = True
+5. Optimization = ‘Adam Optimization’
+6. Cost function used: Entropy loss function
+
