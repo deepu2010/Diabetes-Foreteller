@@ -17,4 +17,4 @@ For my application, I have made use of PIMA indians diabetes dataset. PIMA is a 
 * I have built a deep neural network with 6 layers.
 * Hence, my model has 5 hidden layers and one output layer
 * My model is mentioned as,
-       **[LINEAR -> RELU]  ×  (L-1) -> LINEAR -> SIGMOID**
+   **[LINEAR -> RELU]  ×  (L-1) -> LINEAR -> SIGMOID**
