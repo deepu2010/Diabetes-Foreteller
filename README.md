@@ -11,3 +11,10 @@ For my application, I have made use of PIMA indians diabetes dataset. PIMA is a 
 
 **Use Case Diagram of Diabetes Foreteller application**
 ![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Use%20case%20diagram.JPG)
+
+**Machine Learning Model Details:**
+#h6 Architecture of neural network for diabetes foreteller
+•	I have built a deep neural network with 6 layers.
+•	Hence, my model has 5 hidden layers and one output layer
+•	My model is mentioned as,
+      	[LINEAR -> RELU]  ×  (L-1) -> LINEAR -> SIGMOID
