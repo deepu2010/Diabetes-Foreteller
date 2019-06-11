@@ -9,3 +9,5 @@ For my application, I have made use of PIMA indians diabetes dataset. PIMA is a 
 **Context Diagram of Diabetes Foreteller**
 ![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Context%20diagram.JPG)
 
+**Use Case Diagram of Diabetes Foreteller application**
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Use%20case%20diagram.JPG)
