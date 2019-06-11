@@ -53,3 +53,9 @@ Based on my experience with Deep Learning, I have followed a methodology I learn
 5. Optimization = ‘Adam Optimization’
 6. Cost function used: Entropy loss function
 
+**Results Achieved**
+
+* **Accuracy:** 86%
+* **F1 Score (training set):** 1.0
+* **F1 Score (test set):** 0.79
+
