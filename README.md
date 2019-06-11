@@ -41,3 +41,6 @@ Based on my experience with Deep Learning, I have followed a methodology I learn
 * Hence, my model has 5 hidden layers and one output layer
 * My model is mentioned as,
    **[LINEAR -> RELU]  ×  (L-1) -> LINEAR -> SIGMOID**
+   
+
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Diabetes-Foreteller/master/Images/Architecture%20of%20Neural%20Network.JPG)
